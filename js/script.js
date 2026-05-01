@@ -81,6 +81,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 window.scrollTo({ top: y, behavior: 'smooth' });
             }
         });
+    });
+
     /* ==========================================
        4. 3D Tilt Effect
     ========================================== */
